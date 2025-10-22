@@ -2,21 +2,21 @@
   "basics": {
     "name": "单韦乔 Weiqiao Shan",
     "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "phone": "+86 13063215337",
+    "website": "https://https://shanweiqiao.github.io/",
+    "summary": "PhD student in Computer Science and Technology (Natural Language Processing). Passionate about research in machine translation, audio processing and conditional computation. Proficient in Shell and Python programming, as well as open-source frameworks such as Fairseq, Transformers (Hugging Face), and LaTeX programming. Highly interested in dynamic network structures and efficient inference in large language models. I hope to pursue research about text generation, multimodal models, as well as large model modeling and inference efficiency based on conditional computation (early exit and mixture of experts) in the future.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "China",
+      "countryCode": "CN",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=zsXzXD4AAAAJ&hl=zh-CN"
       },
       {
         "network": "ORCID",
@@ -26,7 +26,7 @@
       {
         "network": "GitHub",
         "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": "https://github.com/shanweiqiao"
       }
     ]
   },
