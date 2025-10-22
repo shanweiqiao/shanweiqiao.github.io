@@ -11,37 +11,28 @@ redirect_from:
 
 教育经历
 ======
-* 2021.09 - 至今 博士 计算机科学与技术, 计算机科学与工程学院, 东北大学
-* 2019.09 - 2021.06 硕士 计算机科学与技术, 计算机科学与工程学院, 东北大学
-* 2014.09 - 2018.06 学士 物联网工程, 电子信息工程学院, 安徽大学
+* 2021.09 - 至今 博士     计算机科学与技术, 计算机科学与工程学院, 东北大学
+* 2019.09 - 2021.06 硕士  计算机科学与技术, 计算机科学与工程学院, 东北大学
+* 2014.09 - 2018.06 学士  物联网工程, 电子信息工程学院, 安徽大学
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2024.07 - 至今: 华为2012实验室
+  * UCD与翻译中心
+  * 文本机器翻译实验室
+  * 实习（语音大模型方向）
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 乒乓球
+* 乐器（好多都忘了）
+  * 单簧管
+  * 小提琴
+  * 吉他
+  * 钢琴
+* 跳舞（urban和hiphop）
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -61,4 +52,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

@@ -23,11 +23,11 @@ repository               : "shanweiqiao/shanweiqiao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/shanweiqiao.jpg"
+  avatar           : "shanweiqiao_image.jpg"
   name             : "单韦乔 (Weiqiao Shan)"
   pronouns         : # example: "she/her"  
   bio              : "把该做的都做好，认真活着，猛猛冲 \n (Do everything that needs to be done, all in my life.)"
-  location         : "Beijing. China"
+  location         : "Beijing China"
   employer         : "Northeastern university"
   uri              : # URL
   email            : "shanweiqiao96@gmail.com" 
