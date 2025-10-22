@@ -9,24 +9,24 @@
 # Basic Site Settings
 locale                   : "zh-CN" # "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "About Me"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "单韦乔"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://shanweiqiao.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "shanweiqiao/shanweiqiao.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "shanweiqiao.jpg"
+  avatar           : "images/shanweiqiao.jpg"
   name             : "单韦乔 (Weiqiao Shan)"
   pronouns         : # example: "she/her"  
-  bio              : "把该做的都做好，认真活着，猛猛冲 (Do everything that needs to be done, all in my life.)"
+  bio              : "把该做的都做好，认真活着，猛猛冲 \\ (Do everything that needs to be done, all in my life.)"
   location         : "Beijing. China"
   employer         : "Northeastern university"
   uri              : # URL
