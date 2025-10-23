@@ -30,7 +30,7 @@ Skills
   * 小提琴
   * 吉他
   * 钢琴
-* 跳舞（urban和hiphop）
+* 跳舞（love dancing, urban and hiphop）
 
 <!-- Publications
 ======
