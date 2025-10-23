@@ -6,6 +6,7 @@ permalink: /publication/EMNLP_25_AMoE
 excerpt: 'We propose Prompt-aware Mixture (PaM) to enhance the Speech LLM that uses multiple audio encoders.'
 date: 2025-09-17
 venue: 'EMNLP'
+slidesurl: 'https://shanweiqiao.github.io/files/EMNLP2025-Slides.pdf'
 paperurl: 'https://shanweiqiao.github.io/files/EMNLP_25_AMoE.pdf'
 citation: '**Shan W**, Li Y, Zhang Y, et al. Enhancing Speech Large Language Models with Prompt-Aware Mixture of Audio Encoders[J]. arXiv preprint arXiv:2502.15178, 2025.'
 ---

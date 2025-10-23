@@ -2,11 +2,12 @@
 title: "Optimizing Speech Multi-View Feature Fusion through Conditional Computation"
 collection: publications
 category: conferences
-permalink: /publication/ICASSP-2024-Optimizing_Multi_View_Feature_Fusion_through_Conditional_Computing
+permalink: /publication/ICASSP_2024_GSGN
 excerpt: 'We propose a novel generalized feature fusion framework grounded in conditional computation, mitigates feature conflicts and bolsters model robustness to multi-view input features.'
 date: 2024-09-17
 venue: 'ICASSP IEEE'
-paperurl: 'https://shanweiqiao.github.io/files/ICASSP_24_GSGN.pdf'
+slidesurl: 'https://shanweiqiao.github.io/files/ICASSP2025-Slides.pdf'
+paperurl: 'https://shanweiqiao.github.io/files/ICASSP_2024_GSGN.pdf'
 citation: 'Shan W, Zhang Y, Han Y, et al. Optimizing Speech Multi-View Feature Fusion through Conditional Computation[C]//ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2025: 1-5.'
 ---
 

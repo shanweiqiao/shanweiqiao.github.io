@@ -1,11 +1,11 @@
 ---
-title: "Co-author: PartialFormer: Modeling Part Instead of Whole for Machine Translation"
+title: "[Co-author] PartialFormer: Modeling Part Instead of Whole for Machine Translation"
 collection: publications
 category: conferences
 permalink: /publication/ACL_24_PartialFormer
 excerpt: 'We introduce PartialFormer, a parameter-efficient Transformer architecture utilizing multiple smaller FFNs to reduce parameters and computation while maintaining essential hidden dimensions.'
-date: 2025-09-17
-venue: 'EMNLP'
+date: 2024-09-17
+venue: 'ACL 2024 Fingdings'
 paperurl: 'https://shanweiqiao.github.io/files/ACL_24_PartialFormer.pdf'
 citation: 'Zhang Y, Ma X, Kou K, et al. Leveraging Unit Language Guidance to Advance Speech Modeling in Textless Speech-to-Speech Translation[J]. arXiv preprint arXiv:2505.15333, 2025.'
 ---
