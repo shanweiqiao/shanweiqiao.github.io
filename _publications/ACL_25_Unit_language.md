@@ -1,11 +1,11 @@
 ---
-title: "Leveraging Unit Language Guidance to Advance Speech Modeling in Textless Speech-to-Speech Translation"
+title: "Co-author: Leveraging Unit Language Guidance to Advance Speech Modeling in Textless Speech-to-Speech Translation"
 collection: publications
 category: conferences
 permalink: /publication/ACL_25_Unit_language
 excerpt: 'We propose the unit language to overcome the two modeling challenges. The unit language can be considered a text-like representation format, constructed using n-gram language modeling.'
 date: 2025-09-17
-venue: 'EMNLP'
+venue: 'ACL 2025 Fingdings'
 paperurl: 'https://shanweiqiao.github.io/files/ACL_25_Unit_language.pdf'
 citation: 'Zhang Y, Ma X, Kou K, et al. Leveraging Unit Language Guidance to Advance Speech Modeling in Textless Speech-to-Speech Translation[J]. arXiv preprint arXiv:2505.15333, 2025.'
 ---
