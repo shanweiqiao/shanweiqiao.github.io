@@ -1,5 +1,5 @@
 ---
-title: "Co-author: A Survey on Conditional Computation"
+title: "A Survey on Conditional Computation"
 collection: publications
 category: conferences
 permalink: /publication/Arxiv_23_conditional_computation_survey

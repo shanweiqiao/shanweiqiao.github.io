@@ -1,5 +1,5 @@
 ---
-title: "Leveraging Unit Language Guidance to Advance Speech Modeling in Textless Speech-to-Speech Translation"
+title: "Early exit is a natural capability in transformer-based models: An empirical study on early exit without joint optimization"
 collection: publications
 category: conferences
 permalink: /publication/Arxiv_23_early_exit_capability
