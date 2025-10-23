@@ -1,5 +1,5 @@
 ---
-title: "Co-author: Leveraging Unit Language Guidance to Advance Speech Modeling in Textless Speech-to-Speech Translation"
+title: "[Co-author] Leveraging Unit Language Guidance to Advance Speech Modeling in Textless Speech-to-Speech Translation"
 collection: publications
 category: conferences
 permalink: /publication/ACL_25_Unit_language
